@@ -8,9 +8,11 @@ https://github.com/ClaudeHammercy
    *Party  
    *Not Party  
    *Eat  
-   *Sleep  
+   *Sleep
 
 ## Things That Rashad Does Not Like To Do
    1. Have his peace disturbed
    2. Disturb the peace of others
    3. Eat mayo
+
+Any further inquiries can be addressed at https://github.com/ClaudeHammercy.
