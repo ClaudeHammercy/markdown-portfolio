@@ -1,19 +1,16 @@
-# Markdown Portfolio
+# Rashad Gant
 
-In this assignment, you'll create a simple web page built with Markdown that displays information about yourself.
+![IMG_2408](https://user-images.githubusercontent.com/90271245/132390973-8b4ebfdb-0c23-4869-b0a4-e58ef6301b02.jpg)
 
-If you ever have any questions about Markdown syntax, feel free to reference the documentation here: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+https://github.com/ClaudeHammercy
 
-### Instructions
+## Things That Rashad Likes To Do
+   *Party  
+   *Not Party  
+   *Eat  
+   *Sleep  
 
-1. Start by forking this repository
-1. In your "fork" of the repository, edit the `README.md` and replace all of the previous content with your own Markdown which should contain:
-    * #Rashad Gant
-    * ![IMG_2408](https://user-images.githubusercontent.com/90271245/132390973-8b4ebfdb-0c23-4869-b0a4-e58ef6301b02.jpg)
-    * At least one link (this could be to your GitHub page, your LinkedIn, or whatever you want)
-    * At least one bullet point list
-    * At least one numbered list
-1. Once you've added all of the previous elements, read through this markdown cheatsheet (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and add one additional element not previously listed
-1. Once you're done with this, adjust the settings of your repoistory to enable GitHub Pages. This should provide you a URL at which your project is hosted.
-2. Update the "About" section of your repository so that your project's "website" is the GitHub Pages URL
-3. Finally, turn in a link to your repository on Populi
+## Things That Rashad Does Not Like To Do
+   1. Have his peace disturbed
+   2. Disturb the peace of others
+   3. Eat mayo
