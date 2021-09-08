@@ -5,10 +5,10 @@
 https://github.com/ClaudeHammercy
 
 ## Things That Rashad Likes To Do
-   *Party  
-   *Not Party  
-   *Eat  
-   *Sleep
+   * Party  
+   * Not Party  
+   * Eat  
+   * Sleep
 
 ## Things That Rashad Does Not Like To Do
    1. Have his peace disturbed
